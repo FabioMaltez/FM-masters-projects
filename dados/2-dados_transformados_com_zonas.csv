@@ -1,0 +1,418 @@
+"","X.1","X","h_hotelid","h_in_page","hotel_name","hotel_loc","h_dist_centro","h_dist_praia","h_num_stars","h_num_comments","h_prices","h_peq_almoco","h_canc_gratuito","h_quartos_restantes","h_score_medio","zona_central","zona_oeste","zona_sul"
+"1",1,1,97414,0,"Rio Othon Palace"," Copacabana",8,0,5,4231,86,1,1,0,7.9,0,0,1
+"2",2,2,11977,0,"Pestana Rio Atlantica"," Copacabana",8,0,4,2367,65,1,1,0,7,0,0,1
+"3",3,3,97416,0,"Olinda Rio Hotel"," Copacabana",7,0,4,1986,52,1,1,0,8.7,0,0,1
+"4",4,4,14984,0,"Royal Rio Palace Hotel"," Copacabana",7,0.9,4,2830,43,1,1,0,8.3,0,0,1
+"5",5,5,1514467,0,"Hotel Atlantico Prime"," Centro do Rio de Janeiro",1.6,2.3,4,17042,20,1,1,0,7.7,1,0,0
+"6",6,6,304101,0,"Hotel Atlantico Tower"," Centro do Rio de Janeiro",0.2,NA,4,11970,15,1,1,0,7.4,1,0,0
+"7",7,7,189003,0,"Belmond Copacabana Palace"," Copacabana",7,0,5,758,251,1,1,0,9.3,0,0,1
+"8",8,8,23345,0,"Hotel Astoria Palace"," Copacabana",7,0,4,3838,49,1,1,1,8.3,0,0,1
+"9",9,9,1629682,0,"Grand Hyatt Rio de Janeiro"," Barra da Tijuca",23,0,5,1584,142,0,0,0,8.8,0,1,0
+"10",10,10,822678,0,"Hotel Atlântico Rio"," Copacabana",8,0.7,4,9124,36,1,1,0,8.1,0,0,1
+"11",11,11,1668072,0,"Ibis Copacabana Posto 2"," Copacabana",7,0.95,3,1313,28,0,0,0,8.2,0,0,1
+"12",12,12,258125,0,"Hotel Atlantico Praia"," Copacabana",7,0,4,5675,37,1,1,1,7.5,0,0,1
+"13",13,13,17313,0,"PortoBay Rio de Janeiro"," Copacabana",7,0,4,1630,84,0,0,0,8.9,0,0,1
+"14",14,14,1751908,0,"Hotel Nacional Rio de Janeiro"," São Conrado",13,0,5,1212,58,1,1,0,8.7,0,0,1
+"15",15,15,1389961,0,"Windsor Marapendi"," Barra da Tijuca",21,0,5,3087,84,1,1,0,8.9,0,1,0
+"16",16,16,1445913,0,"Novotel Rio De Janeiro Barra Da Tijuca"," Barra da Tijuca",21,0,4,624,62,0,0,0,8.4,0,1,0
+"17",17,17,19468,0,"Miramar Hotel by Windsor"," Copacabana",8,0,5,2113,104,0,0,0,9.2,0,0,1
+"18",18,18,252003,0,"Mirador Rio Copacabana Hotel"," Copacabana",7,0.8,4,2130,38,1,1,0,8.6,0,0,1
+"19",19,19,1267507,0,"Hotel Fasano Rio de Janeiro"," Ipanema",9,0,5,356,297,0,0,0,9,0,0,1
+"20",20,20,11825,0,"Fairmont Rio de Janeiro Copacabana"," Copacabana",9,0,5,373,202,0,0,0,9,0,0,1
+"21",21,21,1790770,0,"Casa Nova Hotel"," Centro do Rio de Janeiro",1.6,2,4,4063,25,1,1,0,8.4,1,0,0
+"22",22,22,2254255,0,"Ibis Budget RJ Copacabana"," Copacabana",8,0.45,2,2772,26,0,0,0,8.4,0,0,1
+"23",23,23,49770,0,"Sheraton Grand Rio Hotel & Resort"," Leblon",11,0,5,1343,133,0,1,0,8.6,0,0,1
+"24",24,24,189034,0,"Sol Ipanema Hotel"," Ipanema",9,0,4,1349,88,1,1,0,8.4,0,0,1
+"25",25,25,15744,0,"Real Palace Hotel"," Copacabana",7,0.85,4,2154,33,1,1,0,8.1,0,0,1
+"26",26,26,1796621,1,"Ritz Copacabana Boutique Hotel"," Copacabana",8,0.4,4,1387,60,1,1,0,8.8,0,0,1
+"27",27,27,1380312,1,"Prodigy Santos Dumont"," Centro do Rio de Janeiro",2,1.6,4,2813,75,1,1,1,8.5,1,0,0
+"28",28,28,2004354,1,"Emiliano Rio"," Copacabana",9,0,5,225,289,0,0,0,9.3,0,0,1
+"29",29,29,1176769,1,"Vila Galé Rio de Janeiro"," Centro do Rio de Janeiro",1.6,2.1,4,2739,52,1,1,0,8.8,1,0,0
+"30",30,30,718131,1,"Ibis Rio de Janeiro Santos Dumont"," Centro do Rio de Janeiro",1.3,2.2,3,2185,34,0,0,0,8.1,1,0,0
+"31",31,31,14715,1,"Hotel Vermont Ipanema"," Ipanema",9,0.4,3,1536,42,1,1,0,8.4,0,0,1
+"32",32,32,1296122,1,"Américas Barra Hotel"," Barra da Tijuca",26,1.8,4,5738,39,1,1,0,7.7,0,1,0
+"33",33,33,19293,1,"Windsor Barra Hotel"," Barra da Tijuca",19,0,5,2163,94,1,1,0,8.8,0,1,0
+"34",34,34,97415,1,"Windsor California Hotel"," Copacabana",8,0,4,2440,81,0,0,0,9.2,0,0,1
+"35",35,35,246421,1,"Hotel Arpoador"," Ipanema",9,0,4,826,118,1,1,1,9.1,0,0,1
+"36",36,36,1709001,1,"Ramada Encore by Wyndham Rio de Janeiro Ribalta"," Barra da Tijuca",26,2.1,3,3254,35,1,1,0,8.2,0,1,0
+"37",37,37,1891329,1,"Hotel Atlântico Travel Copacabana"," Copacabana",7,0.6,4,6171,26,1,1,1,8,0,0,1
+"38",38,38,1802378,1,"ibis Copacabana Posto 5"," Copacabana",8,0.55,3,1509,39,0,0,0,8.4,0,0,1
+"39",39,39,189437,1,"Arena Copacabana Hotel"," Copacabana",7,0,4,896,59,1,1,1,8.7,0,0,1
+"40",40,40,15853,1,"B&B Hotels Rio Copacabana Forte"," Copacabana",9,0.25,3,1925,25,0,0,0,8.1,0,0,1
+"41",41,41,1655458,1,"CDesign Hotel"," Recreio dos Bandeirantes",32,0.15,4,3701,61,1,1,0,8.5,0,1,0
+"42",42,42,1769990,1,"Arena Ipanema Hotel"," Ipanema",9,0.15,4,1517,60,1,1,1,8.8,0,0,1
+"43",43,43,1713387,1,"Best Western Premier Arpoador Fashion Hotel"," Ipanema",9,0.5,4,1015,59,1,1,1,8.6,0,0,1
+"44",44,44,17968,1,"Hotel Nacional Inn Copacabana"," Copacabana",6,0.7,3,804,33,1,1,0,8.5,0,0,1
+"45",45,45,252326,1,"Hotel Pouso Real"," Centro do Rio de Janeiro",1.4,2.2,3,4555,13,1,1,0,7.7,1,0,0
+"46",46,46,1385819,1,"Arena Leme Hotel"," Leme",6,0,4,887,49,1,1,0,8.8,0,0,1
+"47",47,47,23335,1,"Hotel Bandeirantes"," Copacabana",7,0.6,3,2825,24,1,1,1,8.1,0,0,1
+"48",48,48,1713389,1,"Vogue Square Fashion Hotel by Lenny Niemeyer"," Barra da Tijuca",24,2.7,4,1444,48,1,1,0,8.7,0,1,0
+"49",49,49,1714741,1,"Best Western Plus Copacabana Design Hotel"," Copacabana",7,1,3,1020,36,1,1,0,8.6,0,0,1
+"50",50,50,18977,2,"JANEIRO Hotel"," Leblon",10,0,5,439,214,0,0,1,9.3,0,0,1
+"51",51,51,257009,2,"Hilton Copacabana Rio de Janeiro"," Copacabana",7,0,5,646,106,0,0,0,8.5,0,0,1
+"52",52,52,19422,2,"Windsor Palace"," Copacabana",7,0.65,4,1192,64,1,1,0,8.7,0,0,1
+"53",53,53,278050,2,"Hotel Viña Del Mar"," Centro do Rio de Janeiro",1.6,1.6,3,1333,17,1,1,0,7.4,1,0,0
+"54",54,54,189268,2,"Orla Copacabana Hotel"," Copacabana",9,0,4,2361,48,0,0,0,8.2,0,0,1
+"55",55,55,1592190,2,"Yoo2 Rio de Janeiro by Intercity"," Botafogo",4.7,0,5,1119,74,1,1,0,8.5,0,0,1
+"56",56,56,23405,2,"JW Marriott Rio de Janeiro"," Copacabana",8,0,5,151,116,0,1,0,7.9,0,0,1
+"57",57,57,258121,2,"Scorial Rio Hotel"," Catete",3.2,0.9,4,1060,39,1,1,1,8.7,0,0,1
+"58",58,58,19464,2,"Windsor Excelsior Copacabana"," Copacabana",7,0,4,1825,62,1,1,0,8.6,0,0,1
+"59",59,59,189230,2,"Américas Granada Hotel"," Centro do Rio de Janeiro",1.2,2.3,4,3101,26,1,1,0,8.6,1,0,0
+"60",60,60,1793374,2,"Ibis Styles RJ Botafogo"," Botafogo",5,0.45,3,1131,38,0,0,0,8.2,0,0,1
+"61",61,61,1475661,2,"Tropical Barra Hotel"," Barra da Tijuca",17,0,4,1992,40,1,1,1,8.4,0,1,0
+"62",62,62,2010891,2,"Petit Rio Hotel"," Catete",3,0.8,3,1366,32,1,1,0,8.8,0,0,1
+"63",63,63,14626,2,"Copa Sul Hotel"," Copacabana",9,0.6,3,642,35,1,1,0,8.3,0,0,1
+"64",64,64,1305629,2,"Hilton Barra Rio de Janeiro"," Barra da Tijuca",21,NA,5,477,113,0,0,0,8.8,0,1,0
+"65",65,65,1115061,2,"Hotel Rio Lancaster"," Copacabana",7,0,3,3223,35,1,1,1,7.8,0,0,1
+"66",66,66,16762,2,"Atlantis Copacabana Hotel"," Ipanema",9,0.25,3,2658,41,1,1,1,8.6,0,0,1
+"67",67,67,19402,2,"Windsor Martinique"," Copacabana",8,0.75,3,1409,40,1,1,0,8.8,0,0,1
+"68",68,68,1703827,2,"Radisson Rio de Janeiro Barra"," Barra da Tijuca",19,NA,4,1397,43,1,1,0,8.7,0,1,0
+"69",69,69,1348654,2,"Ibis RJ Nova America Hotel"," Zona Norte",9,NA,3,937,37,0,0,0,8.5,0,0,0
+"70",70,70,97514,2,"Mar Ipanema Hotel"," Ipanema",9,1.2,4,788,59,1,1,0,8.2,0,0,1
+"71",71,71,13628,2,"Royalty Barra Hotel"," Barra da Tijuca",18,0,4,1330,70,1,1,1,7.6,0,1,0
+"72",72,72,97411,2,"Windsor Leme"," Leme",6,0.15,4,1343,74,1,1,0,8.9,0,0,1
+"73",73,73,1725261,2,"Ramada by Wyndham Rio de Janeiro Recreio"," Recreio dos Bandeirantes",34,1.5,3,2200,28,0,1,0,8.4,0,1,0
+"74",74,74,12163,2,"Hotel Atlântico Avenida"," Centro do Rio de Janeiro",0.3,NA,3,6733,13,1,1,0,6.2,1,0,0
+"75",75,75,249518,3,"Mirasol Copacabana Hotel"," Copacabana",7,0.001,4,1392,40,1,1,1,8.6,0,0,1
+"76",76,76,1301690,3,"Monza Hotel"," Barra da Tijuca",22,NA,3,1888,39,0,1,0,8.7,0,1,0
+"77",77,77,23349,3,"Plaza Barra First"," Barra da Tijuca",24,NA,4,1296,44,1,1,0,8.5,0,1,0
+"78",78,78,97520,3,"Novotel Rio de Janeiro Leme"," Leme",6,0,4,389,66,1,1,0,8.5,0,0,1
+"79",79,79,1405159,3,"Américas Copacabana Hotel"," Copacabana",7,0.55,4,1825,34,0,0,1,8.5,0,0,1
+"80",80,80,241249,3,"Copacabana Mar Hotel"," Copacabana",7,0.95,4,1927,28,1,1,0,8.4,0,0,1
+"81",81,81,1701585,3,"Downtown Santana Hotel"," Centro do Rio de Janeiro",1.8,NA,3,1739,15,1,1,0,8,1,0,0
+"82",82,82,1683069,3,"Days Inn by Wyndham Rio de Janeiro Lapa"," Centro do Rio de Janeiro",1.6,2.3,4,1731,23,1,1,0,8.6,1,0,0
+"83",83,83,14752,3,"South American Copacabana Hotel"," Copacabana",9,0.6,4,1251,35,1,1,1,8.4,0,0,1
+"84",84,84,1703831,3,"Ibis Rio De Janeiro Botafogo"," Botafogo",5,0.95,3,1016,34,0,0,0,8.3,0,0,1
+"85",85,85,742894,3,"Ibis Rio de Janeiro Centro"," Centro do Rio de Janeiro",0.75,2.6,3,496,30,0,0,0,7.9,1,0,0
+"86",86,86,281033,3,"Diamond Hotel"," Glória",1.9,1.4,3,2163,24,1,1,1,8.1,1,0,0
+"87",87,87,2311215,3,"Ibis Budget Rio de Janeiro Nova America"," Zona Norte",9,NA,2,2139,30,0,0,0,8.2,0,0,0
+"88",88,88,18657,3,"Jucati Season Apartments"," Copacabana",7,1.1,3,649,25,0,0,0,8.4,0,0,1
+"89",89,89,1096720,3,"Novotel Rio de Janeiro Parque Olimpico"," Barra da Tijuca",21,NA,4,564,46,0,0,0,8.3,0,1,0
+"90",90,90,172111,3,"Premier Copacabana Hotel"," Copacabana",7,0.85,4,1558,38,1,1,0,7.7,0,0,1
+"91",91,91,248692,3,"Novotel Rio de Janeiro Santos Dumont"," Centro do Rio de Janeiro",1.2,2.2,4,422,49,0,0,0,8.2,1,0,0
+"92",92,92,677448,3,"Linx Galeão"," Ilha do Governador",12,NA,3,2502,42,0,0,1,8.1,0,0,0
+"93",93,93,1505796,3,"Royalty Rio Hotel"," Copacabana",7,0.5,4,640,41,1,1,1,7.7,0,0,1
+"94",94,94,173056,3,"Majestic Rio Palace Hotel"," Copacabana",7,0.65,3,598,28,1,1,0,7.9,0,0,1
+"95",95,95,1834337,3,"Laghetto Stilo Barra Rio"," Barra da Tijuca",21,NA,4,1696,67,1,1,1,8.6,0,1,0
+"96",96,96,392238,3,"Fluminense Hotel"," Centro do Rio de Janeiro",1.4,2.2,3,1266,24,1,1,0,8.5,1,0,0
+"97",97,97,23346,3,"Own Ipanema Visconti"," Ipanema",9,0.65,4,986,60,1,1,0,8.2,0,0,1
+"98",98,98,1337064,3,"KS Beach Hotel"," Recreio dos Bandeirantes",33,0,3,775,42,1,1,1,8.5,0,1,0
+"99",99,99,1013494,4,"Hotel Carioca"," Centro do Rio de Janeiro",1.2,2.4,2,1761,18,1,1,0,8.1,1,0,0
+"100",100,100,11842,4,"Oceano Copacabana Hotel"," Copacabana",7,0.75,3,1240,39,1,1,0,6.3,0,0,1
+"101",101,101,249045,4,"Entremares Hotel"," Barra da Tijuca",17,1.8,3,1001,30,1,1,1,8.2,0,1,0
+"102",102,102,238812,4,"Américas Gaivota Hotel"," Barra da Tijuca",18,1.9,3,2228,29,1,1,1,7.4,0,1,0
+"103",103,103,1664639,4,"Hotel Plaza Spania"," Botafogo",5,0.35,3,825,39,1,1,1,8.5,0,0,1
+"104",104,104,189280,4,"Praia Ipanema Hotel"," Ipanema",10,0,4,1231,94,1,1,1,8.1,0,0,1
+"105",105,105,402755,4,"Windsor Copa Hotel"," Copacabana",7,1.1,3,716,40,1,1,0,8.5,0,0,1
+"106",106,106,284148,4,"Elegance Praia Hotel"," Flamengo",3,0.4,3,933,46,1,1,0,8.6,0,0,1
+"107",107,107,432196,4,"Ritz Leblon"," Leblon",10,0.45,4,689,86,1,1,0,8.1,0,0,1
+"108",108,108,285730,4,"Gallant Hotel"," Zona Norte",3.5,NA,3,1216,26,0,0,0,7.9,0,0,0
+"109",109,109,317506,4,"OYO Rio Colinas Hotel"," Copacabana",9,0.7,3,839,27,1,1,0,6.5,0,0,1
+"110",110,110,300608,4,"Hotel Copamar"," Copacabana",7,0.6,3,578,28,1,1,1,8.2,0,0,1
+"111",111,111,1233654,4,"Ibis Rio de Janeiro Parque Olimpico"," Barra da Tijuca",21,NA,3,1490,39,0,0,0,8.2,0,1,0
+"112",112,112,439969,4,"Quality Rio de Janeiro - Barra da Tijuca"," Barra da Tijuca",23,NA,4,1899,45,1,1,0,8.5,0,1,0
+"113",113,113,6415077,4,"Tulip Inn Rio de Janeiro Ipanema"," Ipanema",9,0.45,3,122,52,1,1,0,8.1,0,0,1
+"114",114,114,236372,4,"Hotel Americano"," Centro do Rio de Janeiro",1.6,1.6,1,549,12,0,0,1,7.1,1,0,0
+"115",115,115,1785648,4,"Novotel Rj Porto Atlantico"," Porto Maravilha",2.6,NA,4,263,44,0,0,0,8.2,1,0,0
+"116",116,116,11848,4,"Apa Hotel Copacabana"," Copacabana",7,1.1,3,493,31,1,1,0,8.2,0,0,1
+"117",117,117,1332663,4,"Samba Rio Convention"," Jacarepaguá",23,NA,4,675,35,1,1,0,8.5,0,1,0
+"118",118,118,23347,4,"Promenade Palladium"," Leblon",10,0.3,4,553,104,1,1,1,8.7,0,0,1
+"119",119,119,2082086,4,"Injoy Lofts Ipanema"," Ipanema",9,0.9,3,519,44,0,0,1,8.5,0,0,1
+"120",120,120,1038439,4,"Hotel Plaza Riazor"," Catete",2.8,0.65,1,1216,14,1,1,1,7.3,0,0,1
+"121",121,121,19405,4,"Windsor Flórida"," Flamengo",2.9,0.6,4,1724,44,1,1,0,8.5,0,0,1
+"122",122,122,2312705,4,"Lapa Ville Hotel"," Centro do Rio de Janeiro",1.6,1.6,NA,1144,19,0,0,1,8.5,1,0,0
+"123",123,123,1086311,5,"Residencial Budget"," Copacabana",7,0.85,3,826,28,1,1,1,8.6,0,0,1
+"124",124,124,315321,5,"Hotel Venezuela"," Flamengo",3.6,0,2,520,21,1,1,1,7.7,0,0,1
+"125",125,125,408824,5,"Brisa Barra Hotel"," Barra da Tijuca",21,0,4,1063,62,1,1,0,8.5,0,1,0
+"126",126,126,47473,5,"Mercure RJ Botafogo Mourisco"," Botafogo",5,0.7,4,295,54,0,0,0,8.2,0,0,1
+"127",127,127,14955,5,"Santa Teresa Hotel RJ - MGallery"," Santa Teresa",2.5,1.9,5,235,240,1,1,1,9,1,0,0
+"128",128,128,495410,5,"Hotel Galícia"," Centro do Rio de Janeiro",1.4,2.6,2,1099,15,1,1,0,6.6,1,0,0
+"129",129,129,1041867,5,"Promenade Link Stay"," Barra da Tijuca",21,NA,4,1345,35,1,1,0,8.2,0,1,0
+"130",130,130,618239,5,"Sant' Martre"," Santa Teresa",2.5,1.8,3,299,40,0,0,1,8.4,1,0,0
+"131",131,131,331193,5,"Hotel Vilamar Copacabana"," Copacabana",8,0.4,4,807,38,1,1,0,8.7,0,0,1
+"132",132,132,3965506,5,"L'Homme de Rio Boutique Hotel"," Copacabana",9,0.65,NA,269,79,1,1,1,8.8,0,0,1
+"133",133,133,189027,5,"Hotel Golden Park Aeroporto Rio de Janeiro"," Glória",2.4,0.8,3,962,26,1,1,0,8.1,1,0,0
+"134",134,134,15762,5,"Mengo Palace Hotel"," Flamengo",3,0,3,1598,31,1,1,1,8.4,0,0,1
+"135",135,135,1977777,5,"ibis Rio Porto Atlantico"," Porto Maravilha",2.6,NA,3,279,31,0,0,0,8.9,1,0,0
+"136",136,136,1709033,5,"Venit Barra Hotel"," Barra da Tijuca",23,NA,4,549,53,1,1,0,8.8,0,1,0
+"137",137,137,1454231,5,"Hotel Vitória"," Catete",2.9,0.65,NA,1234,15,1,1,1,8,0,0,1
+"138",138,138,189064,5,"Hotel Rondônia Palace"," Flamengo",3.1,0.55,3,675,27,1,1,0,8.1,0,0,1
+"139",139,139,1816965,5,"Residencial Sausalito"," Copacabana",7,0.85,4,799,23,1,1,0,8.4,0,0,1
+"140",140,140,12169,5,"The Villa"," Santa Teresa",4.1,1.9,4,561,79,1,1,1,8.1,1,0,0
+"141",141,141,274872,5,"Argentina Hotel"," Flamengo",4,1,3,1051,21,1,1,1,8,0,0,1
+"142",142,142,1883840,5,"Selina Lapa Rio de Janeiro"," Centro do Rio de Janeiro",1.4,1.8,3,3020,78,0,0,0,8.7,1,0,0
+"143",143,143,351795,5,"Itajubá Hotel"," Centro do Rio de Janeiro",1.2,2,2,993,25,1,1,1,7.8,1,0,0
+"144",144,144,816746,5,"Hotel Rio Claro"," Flamengo",3,0.65,NA,879,15,1,1,1,8,0,0,1
+"145",145,145,189951,5,"Mar Palace Copacabana Hotel"," Copacabana",7,0.75,4,1032,36,1,1,0,8.5,0,0,1
+"146",146,146,636883,5,"Ibiza Barra Hotel"," Barra da Tijuca",17,1.3,3,641,27,1,1,0,6.8,0,1,0
+"147",147,147,287192,6,"Ace Suites Inn Rio"," Botafogo",5,0,3,845,30,1,1,1,8,0,0,1
+"148",148,148,189005,6,"Américas Benidorm Hotel"," Copacabana",7,0.55,4,728,30,0,0,1,8.5,0,0,1
+"149",149,149,13850,6,"Royalty Copacabana Hotel"," Copacabana",7,1,4,1004,41,1,1,0,6.2,0,0,1
+"150",150,150,300639,6,"CabanaCopa Hostel"," Copacabana",6,1.1,NA,337,21,0,0,1,7.6,0,0,1
+"151",151,151,19389,6,"Windsor Guanabara"," Centro do Rio de Janeiro",0.1,NA,4,1035,51,1,1,0,8.4,1,0,0
+"152",152,152,2490729,6,"Hygge House Barra da Tijuca"," Barra da Tijuca",17,2,NA,698,25,1,1,1,8.7,0,1,0
+"153",153,153,321707,6,"Ipanema Beach House"," Ipanema",9,1,NA,1288,33,0,0,1,8.2,0,0,1
+"154",154,154,263285,6,"Boutique Hotel Gávea Tropical"," Gávea",11,1.3,3,60,37,1,1,1,7.6,0,0,1
+"155",155,155,392209,6,"Hotel Primor (Adult Only)"," Centro do Rio de Janeiro",0.95,2.8,NA,635,18,1,1,0,7.9,1,0,0
+"156",156,156,1909675,6,"Ipanema Beach Hostel"," Ipanema",10,1.1,NA,853,41,0,0,1,8.2,0,0,1
+"157",157,157,1803094,6,"Room Office & Beach Guest House - Go Make A Trip"," Barra da Tijuca",21,0,3,545,21,0,0,1,8.6,0,1,0
+"158",158,158,1093048,6,"Rio Aeroporto Hotel"," Ilha do Governador",12,NA,4,2279,62,1,1,0,7.6,0,0,0
+"159",159,159,815176,6,"La Suite by Dussol"," Joatinga",16,0.45,4,201,238,1,1,1,9.3,0,1,0
+"160",160,160,330618,6,"Imperial Hotel"," Catete",2.9,0.6,3,1040,28,0,1,1,8.3,0,0,1
+"161",161,161,1884744,6,"OYO Toy Barra Hotel"," Barra da Tijuca",17,0.95,3,452,25,1,1,0,6.8,0,1,0
+"162",162,162,19353,6,"Windsor Astúrias"," Centro do Rio de Janeiro",1.2,1.9,3,740,34,1,1,0,8.6,1,0,0
+"163",163,163,850450,6,"Hotel Encontros (Adult Only)"," Centro do Rio de Janeiro",1.1,2.5,NA,419,16,0,0,0,8,1,0,0
+"164",164,164,3595258,6,"Apartamento em Copacabana ( posto 5 )"," Copacabana",8,0,3,27,102,0,0,0,9.1,0,0,1
+"165",165,165,1043631,6,"Injoy H & Suítes"," Botafogo",5,0.8,NA,980,23,0,0,1,8.9,0,0,1
+"166",166,166,5867066,6,"Hotel Be Loft Lounge"," Barra da Tijuca",17,1.2,4,108,30,0,0,1,8.9,0,1,0
+"167",167,167,683865,6,"Hotel Único"," Flamengo",3.1,0.55,1,606,22,1,1,1,7.8,0,0,1
+"168",168,168,1631024,6,"El Misti Hostel Ipanema"," Ipanema",9,0,NA,1722,23,0,0,1,8.5,0,0,1
+"169",169,169,1887100,6,"Le Chateaux Joá Boutique Hotel"," Joatinga",16,0.2,5,124,166,1,1,1,9.1,0,1,0
+"170",170,170,322563,7,"Pura Vida Hostel"," Copacabana",8,0.8,NA,533,26,0,0,1,7.3,0,0,1
+"171",171,171,471730,7,"Boulevard Bed & Breakfast"," Copacabana",7,0.8,NA,871,24,0,0,1,7.3,0,0,1
+"172",172,172,2491648,7,"Hostel Apoteose"," Rio de JaneiroMostrar no mapa",2.3,2.9,NA,485,13,0,0,1,7.8,1,0,0
+"173",173,173,5330677,7,"Bossa Nova Apartamento luxo Copacabana"," Copacabana",7,0.6,NA,11,82,0,0,1,9.6,0,0,1
+"174",174,174,1962448,7,"Villa 25"," Laranjeiras",3.4,1,NA,1354,25,1,1,1,8.9,0,0,1
+"175",175,175,2397972,7,"Hotel Ferreira Viana"," Flamengo",2.9,0.5,NA,353,16,1,1,1,8.5,0,0,1
+"176",176,176,1703829,7,"Residence Inn by Marriott Rio de Janeiro Barra da Tijuca"," Barra da Tijuca",24,NA,4,81,66,1,1,0,8.8,0,1,0
+"177",177,177,2673883,7,"Barra First Class"," Barra da Tijuca",24,NA,3,170,47,0,0,1,7.1,0,1,0
+"178",178,178,1900211,7,"Hotel Barao Da Taquara"," Rio de JaneiroMostrar no mapa",18,NA,NA,126,30,1,1,1,7.2,1,0,0
+"179",179,179,281022,7,"Books Hostel"," Centro do Rio de Janeiro",1.6,1.9,NA,396,38,1,1,1,8.6,1,0,0
+"180",180,180,877548,7,"Villa Franca"," Santa Teresa",2.4,2,3,218,38,0,0,1,9.3,1,0,0
+"181",181,181,1873186,7,"Beach House Barra da Tijuca"," Barra da Tijuca",17,1.4,NA,460,25,0,0,1,7.3,0,1,0
+"182",182,182,2657978,7,"Hotel Vanity"," Copacabana",8,0.6,NA,70,39,1,1,0,6.5,0,0,1
+"183",183,183,349492,7,"Arosa Rio Hotel"," Centro do Rio de Janeiro",1.8,2.7,4,567,39,1,1,1,8.4,1,0,0
+"184",184,184,1315357,7,"Mango Tree Ipanema"," Ipanema",9,0.3,NA,611,24,0,0,1,8.2,0,0,1
+"185",185,185,1881668,7,"Aurora Hostel Rio"," Botafogo",6,1.7,NA,421,17,0,0,1,7.7,0,0,1
+"186",186,186,484112,7,"Hotel Plage"," Ilha do Governador",12,0,NA,348,27,1,1,1,6.7,0,0,0
+"187",187,187,392177,7,"Hotel Sheik (Adults Only)"," Centro do Rio de Janeiro",0.95,2.7,NA,220,16,1,1,1,8.3,1,0,0
+"188",188,188,2984583,7,"Quarto Privativo em Condominio"," Ilha do Governador",11,NA,NA,506,20,0,0,1,9.4,0,0,0
+"189",189,189,1709032,7,"Venit Mio Hotel"," Barra da Tijuca",23,NA,4,166,66,1,1,0,8.7,0,1,0
+"190",190,190,314145,7,"OYO Hotel Vital"," Centro do Rio de Janeiro",0.8,NA,2,574,21,1,1,0,7.2,1,0,0
+"191",191,191,416919,7,"Hotel La Costa"," Centro do Rio de Janeiro",1.6,1.9,NA,61,23,1,1,1,6.7,1,0,0
+"192",192,192,249613,7,"Che Lagarto Hostel Ipanema"," Ipanema",9,1.1,NA,1763,24,0,0,1,8.3,0,0,1
+"193",193,193,1845101,7,"Mojito Hostel & Suites Ipanema Rio de Janeiro"," Ipanema",9,0.7,NA,751,20,1,1,1,8.5,0,0,1
+"194",194,194,2590972,7,"Rio Spot Duvivier D038"," Copacabana",7,0,4,13,109,0,0,0,8.4,0,0,1
+"195",195,195,467162,8,"Rio Deal Guest House"," Copacabana",7,0.65,3,275,22,0,0,1,8.1,0,0,1
+"196",196,196,4410736,8,"GUARATIBALI RESIDENCE"," Rio de JaneiroMostrar no mapa",42,0,NA,37,30,0,0,1,7.9,1,0,0
+"197",197,197,1703828,8,"Courtyard by Marriott Rio de Janeiro Barra da Tijuca"," Barra da Tijuca",24,NA,4,325,57,0,0,1,8.4,0,1,0
+"198",198,198,419766,8,"KS Residence"," Barra da Tijuca",17,1.9,4,185,87,1,1,1,9.1,0,1,0
+"199",199,199,4088169,8,"Flat Casa del Mar"," Barra da Tijuca",21,0,3,40,70,0,0,1,7.4,0,1,0
+"200",200,200,6839073,8,"Apartamento próximo a Praia do Forte"," Rio de JaneiroMostrar no mapa",119,0.4,NA,0,49,0,0,0,NA,1,0,0
+"201",201,201,1474245,8,"Hospedaria Rio"," Botafogo",5,0.45,NA,763,16,0,0,1,8.6,0,0,1
+"202",202,202,5846416,8,"Farfalla São Manuel"," Botafogo",5,0.9,NA,85,19,0,0,1,8.4,0,0,1
+"203",203,203,6893942,8,"Condomínio Vila do Sossego"," Rio de JaneiroMostrar no mapa",120,2.7,NA,0,31,0,0,1,NA,1,0,0
+"204",204,204,6585751,8,"South Beach Copacabana Residence"," Copacabana",8,0.2,4,0,69,0,0,1,NA,0,0,1
+"205",205,205,4407370,8,"Copacabana Private rooms aluguel"," Copacabana",9,0.5,NA,99,16,0,0,1,6.8,0,0,1
+"206",206,206,738662,8,"Ace Praia de Botafogo Suites"," Botafogo",5,0.5,NA,307,21,0,0,1,7.8,0,0,1
+"207",207,207,1612876,8,"Rio Spot Atlantica 2440"," Copacabana",7,0,3,35,213,0,0,1,7.7,0,0,1
+"208",208,208,1900269,8,"Discovery Suites Rio"," Santa Teresa",2.4,1.6,4,158,46,1,1,1,9.1,1,0,0
+"209",209,209,6477959,8,"Quartos da Preta"," Recreio dos Bandeirantes",33,NA,NA,9,18,0,0,1,9,0,1,0
+"210",210,210,1459164,8,"VOA Casa Tuxi"," Botafogo",4.8,0.45,3,350,27,1,1,1,7.4,0,0,1
+"211",211,211,189039,8,"Biarritz Hotel"," Copacabana",8,0.4,2,253,52,1,1,1,6.4,0,0,1
+"212",212,212,2306487,8,"Pousada Barra Riocentro"," Jacarepaguá",25,NA,3,38,22,1,1,1,6,0,1,0
+"213",213,213,330697,8,"Parque Hotel"," Centro do Rio de Janeiro",1.8,2.9,2,322,16,1,1,1,7.6,1,0,0
+"214",214,214,695655,8,"Rio Way Hostel"," Recreio dos Bandeirantes",33,0,NA,258,33,0,0,1,7.8,0,1,0
+"215",215,215,350029,8,"Hotel Fênix (Adult Only)"," Centro do Rio de Janeiro",1.4,2.7,NA,69,31,1,1,1,8,1,0,0
+"216",216,216,857680,8,"Baixo Copa Guest House"," Copacabana",8,0.3,3,267,27,0,0,1,7.7,0,0,1
+"217",217,217,5727448,8,"Hostel Maresias do Leme"," Leme",6,0.45,NA,103,22,1,1,1,9.4,0,0,1
+"218",218,218,5442726,8,"OYO Hotel Rio Laranjeiras"," Laranjeiras",3.7,1.4,NA,313,21,0,0,1,8.4,0,0,1
+"219",219,219,595377,8,"Copacabana Hostel"," Copacabana",7,0.55,NA,466,16,0,0,1,7.3,0,0,1
+"220",220,220,4591977,9,"Copacabana perto de tudo"," Copacabana",6,0.7,4,3,48,0,0,1,8.3,0,0,1
+"221",221,221,6594317,9,"Carvalho de Paquetá"," Rio de JaneiroMostrar no mapa",16,NA,NA,11,27,0,0,1,9.4,1,0,0
+"222",222,222,1902888,9,"Hotel Magnus (Adult Only)"," Zona Norte",3.5,NA,NA,115,24,1,1,0,7.8,0,0,0
+"223",223,223,1840751,9,"Riosoleil Copacabana"," Copacabana",9,0.65,NA,69,25,0,0,1,9.1,0,0,1
+"224",224,224,411002,9,"Shelton Hotel (Adult Only)"," Zona Norte",18,NA,NA,192,22,1,1,0,7.8,0,0,0
+"225",225,225,1840106,9,"Hostel Sol e Mar"," Vidigal",11,0,NA,36,20,0,0,1,8.7,0,0,1
+"226",226,226,682105,9,"Vidigal Varandas Hostel"," Vidigal",12,0.95,NA,152,23,0,0,1,8.4,0,0,1
+"227",227,227,636582,9,"Hotel Gomes Freire (Adult Only)"," Centro do Rio de Janeiro",1.1,2.6,NA,141,16,0,0,1,7.4,1,0,0
+"228",228,228,707386,9,"Pousada e Hostel Barra da Tijuca"," Barra da Tijuca",18,2.8,NA,155,43,1,1,1,7.9,0,1,0
+"229",229,229,2082937,9,"Apartamento em Copacabana"," Copacabana",6,0.65,3,70,20,0,0,0,8.6,0,0,1
+"230",230,230,6805187,9,"PrimeBarra"," Jacarepaguá",23,NA,NA,0,27,1,1,1,NA,0,1,0
+"231",231,231,329043,9,"Hotel Caracas Rio Aeroporto Galeão"," Ilha do Governador",12,NA,4,154,27,0,0,0,6.9,0,0,0
+"232",232,232,2928164,9,"Hotel Cabo Finisterra"," Centro do Rio de Janeiro",1.8,2.2,NA,193,10,0,0,1,6.1,1,0,0
+"233",233,233,1879650,9,"Hotel Hostal (Adults Only)"," Centro do Rio de Janeiro",1,2.7,NA,177,15,1,1,1,7.4,1,0,0
+"234",234,234,374358,9,"Love Time Hotel (Adult Only)"," Glória",2.4,0.9,NA,144,35,1,1,1,8.3,1,0,0
+"235",235,235,289658,9,"Motel Caricia (Adult Only)"," Madureira",17,NA,NA,74,28,0,0,0,7.3,0,0,0
+"236",236,236,6873140,9,"Casa em frente à praia"," Rio de JaneiroMostrar no mapa",40,NA,NA,0,157,0,0,0,NA,1,0,0
+"237",237,237,5566634,9,"Pousada Sobrado Botafogo"," Botafogo",5,0.9,NA,92,9,0,0,1,8.6,0,0,1
+"238",238,238,4513401,9,"Pousada Mansão Rio centro"," Jacarepaguá",25,NA,NA,25,22,1,1,0,6.9,0,1,0
+"239",239,239,2710541,9,"Pousada Serra e Mar RioCentro"," Rio de JaneiroMostrar no mapa",25,NA,3,73,17,1,1,1,6.6,1,0,0
+"240",240,240,358185,9,"Gamboa Rio Hotel"," Centro do Rio de Janeiro",1.1,NA,2,238,33,1,1,0,7.1,1,0,0
+"241",241,241,865559,9,"Mambembe Hostel"," Centro do Rio de Janeiro",1.7,1.7,NA,216,13,0,0,1,8.7,1,0,0
+"242",242,242,743885,9,"Santa Tere Hostel"," Santa Teresa",2.5,1.4,NA,279,17,0,0,1,8.6,1,0,0
+"243",243,243,1168226,9,"Apartamento Copacabana - Rio de Janeiro"," Copacabana",6,0.75,4,10,55,0,0,0,8.5,0,0,1
+"244",244,244,1123339,10,"Copacabana Djalma Ulrich Posto 5"," Copacabana",8,0.7,3,9,138,0,0,0,7,0,0,1
+"245",245,245,687017,10,"Hotel Meu Cantinho (Adults Only)"," Centro do Rio de Janeiro",0.9,2.8,NA,220,16,1,1,1,8.2,1,0,0
+"246",246,246,1492725,10,"Lindo Studio Ipanema"," Ipanema",9,0,3,66,58,0,0,0,8.7,0,0,1
+"247",247,247,300923,10,"Midway Motel (Adult Only)"," Centro do Rio de Janeiro",1.1,2.6,NA,595,17,1,1,1,8,1,0,0
+"248",248,248,548188,10,"Hospedagem Ledo"," Centro do Rio de Janeiro",0.8,2.8,NA,110,13,0,0,1,5.9,1,0,0
+"249",249,249,5165485,10,"Lar do Aconchego Quarto privado"," Zona Norte",14,NA,NA,82,13,1,1,1,8.6,0,0,0
+"250",250,250,6874408,10,"Casa em Arraial do Cabo"," Rio de JaneiroMostrar no mapa",118,0.7,NA,0,126,0,0,0,NA,1,0,0
+"251",251,251,1902456,10,"Hotel Itaoka (Adults Only)"," Zona Norte",9,NA,3,38,28,1,1,0,7,0,0,0
+"252",252,252,1879651,10,"Hospedagem Municipal"," Centro do Rio de Janeiro",0.8,2.8,NA,134,13,0,0,1,6.3,1,0,0
+"253",253,253,3041359,10,"COPACABANA, MIRANTE DO AZUL MAR"," Copacabana",6,0,NA,36,46,0,0,1,8.4,0,0,1
+"254",254,254,734469,10,"Le House Hostel"," Leme",6,0.4,NA,209,21,0,0,1,7,0,0,1
+"255",255,255,1057544,10,"Te Adoro Hotel (Adult Only)"," Zona Norte",7,NA,NA,86,31,1,1,0,7.8,0,0,0
+"256",256,256,5918862,10,"Kitnet Aconchegante Em Benfica"," Zona Norte",6,NA,NA,11,10,0,0,0,8.8,0,0,0
+"257",257,257,4110960,10,"Paradiso All suítes"," Barra da Tijuca",18,NA,NA,41,28,0,0,1,7,0,1,0
+"258",258,258,1055711,10,"Ipanema Vinicius de Moraes"," Ipanema",9,0.35,3,78,39,0,0,0,8.1,0,0,1
+"259",259,259,2199300,10,"Apartamento Olof"," Barra da Tijuca",25,NA,4,0,126,0,0,0,NA,0,1,0
+"260",260,260,4422880,10,"Apt. Av. Atlantica, 1480"," Copacabana",7,0.8,3,12,63,0,0,1,9.1,0,0,1
+"261",261,261,1851957,10,"Copacabana Praia Rio"," Copacabana",7,0,3,25,55,0,0,0,8.8,0,0,1
+"262",262,262,1267496,10,"Apartamento Figueiredo Magalhães"," Copacabana",7,0,3,26,45,0,0,0,8.8,0,0,1
+"263",263,263,1911983,10,"Jumbo Hotel (Adults Only)"," Zona Norte",17,NA,NA,34,23,1,1,0,6.8,0,0,0
+"264",264,264,503505,10,"Pousada Barra da Tijuca"," Barra da Tijuca",17,2.2,3,148,28,1,1,1,8.1,0,1,0
+"265",265,265,1379923,10,"Le Chateau Lapa Boutique Hotel"," Centro do Rio de Janeiro",1.4,2,NA,0,90,1,1,0,NA,1,0,0
+"266",266,266,5408516,10,"Apart Hotel Rio Stay"," Jacarepaguá",25,NA,3,22,39,0,0,1,7.1,0,1,0
+"267",267,267,6774261,10,"Big Waves Hospedagem"," Rio de JaneiroMostrar no mapa",67,0,NA,0,20,0,0,1,NA,1,0,0
+"268",268,268,2031739,10,"Hotel Ordenes (Adult Only)"," Centro do Rio de Janeiro",1.1,2.3,NA,203,11,0,0,1,6.3,1,0,0
+"269",269,269,6820618,11,"Incrível Apart Copacabana"," Copacabana",7,1,NA,0,82,0,0,0,NA,0,0,1
+"270",270,270,1905137,11,"Magnus Norte Hotel (Adult Only)"," Zona Norte",8,NA,NA,66,34,1,1,0,7.2,0,0,0
+"271",271,271,777102,11,"Pousada da Gigoia - Barra da Tijuca"," Barra da Tijuca",17,0,3,84,31,1,1,1,9.1,0,1,0
+"272",272,272,2155546,11,"Ibis Budget Rio de Janeiro Centro"," Centro do Rio de Janeiro",0.8,2.6,2,293,30,0,0,0,8.2,1,0,0
+"273",273,273,1689028,11,"Cliffside"," Joatinga",17,0.45,NA,88,213,1,1,1,9.7,0,1,0
+"274",274,274,1275592,11,"Rio Boutique Suites"," Cosme Velho",4.6,1.8,NA,45,44,0,0,1,9.2,0,0,1
+"275",275,275,6680572,11,"Surf Club Longboard Paradise Hostel"," Recreio dos Bandeirantes",33,0.75,NA,5,40,0,0,1,9.8,0,1,0
+"276",276,276,358167,11,"Pompeu Rio Hotel"," Centro do Rio de Janeiro",0.9,NA,3,391,19,1,1,0,6.7,1,0,0
+"277",277,277,1079364,11,"Rio Surf House Hostel e Pousada"," Recreio dos Bandeirantes",33,0.95,NA,80,21,0,0,1,7.5,0,1,0
+"278",278,278,189038,11,"Hotel Ducasse"," Copacabana",9,0.8,3,675,27,1,1,1,5.5,0,0,1
+"279",279,279,4636724,11,"RESIDENTE SERVICE DE FRENTE PARA O MAR - AV. VIEIRA SOUTO 510"," Ipanema",9,0,4,23,201,0,0,1,7.8,0,0,1
+"280",280,280,6884244,11,"Lindo Apartamento em Copacabana"," Copacabana",7,1.3,NA,0,63,0,0,0,NA,0,0,1
+"281",281,281,488013,11,"Studio Copacabana"," Copacabana",9,0.65,3,18,63,0,0,0,8.6,0,0,1
+"282",282,282,5578154,11,"Casa Longboard Hostel"," Recreio dos Bandeirantes",33,0,NA,51,27,0,0,1,9.2,0,1,0
+"283",283,283,2863463,11,"GuestHouse Casa da Montanha"," Rio de JaneiroMostrar no mapa",16,NA,NA,68,26,0,0,1,9,1,0,0
+"284",284,284,696303,11,"Pouso Verde Bed and Breakfast"," Jardim Botânico",8,2.6,3,63,35,1,1,1,9.6,0,0,1
+"285",285,285,6830957,11,"BEACH HOUSE"," Barra da Tijuca",20,NA,NA,0,137,0,0,0,NA,0,1,0
+"286",286,286,482500,11,"Rio Panoramic"," Santa Teresa",2.5,1.8,4,118,80,1,1,1,9.2,1,0,0
+"287",287,287,5645974,11,"Hotel Verlaine adult only"," Gamboa",1.2,NA,NA,19,18,1,1,1,5.9,1,0,0
+"288",288,288,5770908,11,"Rio Stay"," Jacarepaguá",25,NA,4,20,22,0,0,1,6.7,0,1,0
+"289",289,289,538483,11,"Pousada Guanabara Garden"," Ilha do Governador",10,NA,3,383,39,1,1,1,8.3,0,0,0
+"290",290,290,6866285,11,"TEMPORADA PRAIA COPACABANA"," Copacabana",7,1,NA,0,63,0,0,0,NA,0,0,1
+"291",291,291,5841022,11,"New Star"," Rio de JaneiroMostrar no mapa",27,NA,NA,5,24,0,0,0,5.8,1,0,0
+"292",292,292,622862,11,"Apartamento Ipanema Posto 9"," Ipanema",9,0,3,19,122,0,0,1,8.1,0,0,1
+"293",293,293,3556450,11,"Apartamento no Leme 2 qts"," Leme",6,0,NA,11,62,0,0,0,8.7,0,0,1
+"294",294,294,1103150,12,"Massape Rio Hostel"," Centro do Rio de Janeiro",1.1,2.4,NA,585,15,0,0,1,7.4,1,0,0
+"295",295,295,363846,12,"Motel Comodoro (Adult Only)"," Zona Norte",17,NA,NA,60,16,0,0,0,7.3,0,0,0
+"296",296,296,14038,12,"Mama Ruisa Boutique Hotel"," Santa Teresa",2.4,1.5,4,157,161,0,0,1,9.5,1,0,0
+"297",297,297,1057314,12,"Nosso Hotel (Adult Only)"," Leblon",11,0.15,NA,73,35,1,1,1,7.2,0,0,1
+"298",298,298,6827659,12,"Praia da Figueira"," Rio de JaneiroMostrar no mapa",103,2.8,NA,0,114,0,0,0,NA,1,0,0
+"299",299,299,1550306,12,"Village Potira"," Rio de JaneiroMostrar no mapa",21,NA,NA,159,16,0,0,0,8.6,1,0,0
+"300",300,300,1034222,12,"Hotel São Cristóvão"," Zona Norte",4,NA,2,120,19,0,0,0,5.2,0,0,0
+"301",301,301,2804743,12,"Copa Residencial Belo"," Copacabana",7,0,3,3,75,0,0,1,8.1,0,0,1
+"302",302,302,3463504,12,"Nacif's Suites"," Rio de JaneiroMostrar no mapa",21,0,NA,45,16,0,0,1,9.1,1,0,0
+"303",303,303,5945452,12,"Planet Hostel"," Recreio dos Bandeirantes",33,0.95,NA,24,24,1,1,1,9.5,0,1,0
+"304",304,304,1535225,12,"Apartamento Coração de Copacabana"," Copacabana",7,0.45,3,29,86,0,0,0,8.4,0,0,1
+"305",305,305,1300596,12,"Gávea BNB"," Gávea",9,1.6,3,86,48,1,1,1,9.8,0,0,1
+"306",306,306,5126829,12,"Casa Charme da Colina"," Rio de JaneiroMostrar no mapa",18,NA,3,4,116,0,0,1,9.7,1,0,0
+"307",307,307,6856527,12,"Condomínio Casa com Piscina - Araruama"," Rio de JaneiroMostrar no mapa",88,NA,NA,0,57,0,0,0,NA,1,0,0
+"308",308,308,6810000,12,"Ipanema - Visconde de Pirajá"," Ipanema",9,0.3,NA,0,94,0,0,0,NA,0,0,1
+"309",309,309,330719,12,"OYO Hotel Barão De Tefé"," Centro do Rio de Janeiro",1,NA,2,110,16,0,0,0,5.3,1,0,0
+"310",310,310,1782699,12,"Hangar Rio Hostel"," Ilha do Governador",10,NA,NA,252,22,0,0,1,8,0,0,0
+"311",311,311,6866582,12,"Meu lar"," Rio de JaneiroMostrar no mapa",157,NA,NA,0,72,0,0,0,NA,1,0,0
+"312",312,312,4380581,12,"Copacabana-Rodolfo Dantas"," Copacabana",7,0.001,3,0,94,0,0,1,NA,0,0,1
+"313",313,313,6855645,12,"Casa veraneio em Unamar"," Rio de JaneiroMostrar no mapa",121,NA,NA,0,32,0,0,0,NA,1,0,0
+"314",314,314,1275103,12,"Hostel New Ipanema"," Ipanema",9,0.45,NA,119,19,0,0,1,8.1,0,0,1
+"315",315,315,6886798,12,"Vista Linda Lagoa"," Barra da Tijuca",17,2.2,NA,0,28,0,0,0,NA,0,1,0
+"316",316,316,2970278,12,"Hostel Quebra Mar"," Barra da Tijuca",17,0,NA,54,52,0,0,1,8.3,0,1,0
+"317",317,317,4197487,12,"LineRio Copacabana Residence #245"," Copacabana",6,0.6,4,0,76,0,0,0,NA,0,0,1
+"318",318,318,5650015,12,"Laguna Hostel"," Joatinga",17,0.45,NA,21,35,0,0,1,8.5,0,1,0
+"319",319,319,6863802,13,"Cantinho do sossego"," Rio de JaneiroMostrar no mapa",137,2.7,NA,0,13,0,0,0,NA,1,0,0
+"320",320,320,1055750,13,"Sweet Rio Residence Taquara"," Rio de JaneiroMostrar no mapa",22,NA,NA,41,25,0,0,1,9.7,1,0,0
+"321",321,321,5009206,13,"Hospedagem em JACAREPAGUÁ - HOSTEL MATTOS"," Rio de JaneiroMostrar no mapa",20,NA,NA,13,31,1,1,1,9.6,1,0,0
+"322",322,322,4615880,13,"Quarto perto do Maracanã"," Zona Norte",6,NA,NA,12,10,0,0,1,9.3,0,0,0
+"323",323,323,6897684,13,"Pousada Barra Sol"," Barra da Tijuca",18,2.8,NA,0,28,1,1,1,NA,0,1,0
+"324",324,324,6832424,13,"Quarto , Recreio dos Bandeirantes Em Apartamento compartilhado"," Recreio dos Bandeirantes",29,2.8,NA,0,28,0,0,1,NA,0,1,0
+"325",325,325,6664714,13,"LemeHarmony by Moriah Apartments"," Leme",6,0.25,4,0,107,0,0,0,NA,0,0,1
+"326",326,326,1926006,13,"Hostel 68"," Recreio dos Bandeirantes",34,1.2,NA,49,14,1,1,1,7.7,0,1,0
+"327",327,327,1034851,13,"Alfa Park Mar da Barra"," Barra da Tijuca",22,0,3,19,267,0,0,0,9.3,0,1,0
+"328",328,328,6829254,13,"Aconchegante apto 809"," Copacabana",8,0.45,NA,0,36,0,0,0,NA,0,0,1
+"329",329,329,6851319,13,"RANCHO COPACABANA - SUITE CANÁRIO"," Copacabana",7,0.65,NA,0,15,0,0,1,NA,0,0,1
+"330",330,330,6812521,13,"Reserva Pontal"," Recreio dos Bandeirantes",33,0,4,0,86,0,0,0,NA,0,1,0
+"331",331,331,2047513,13,"Pousada Recanto Barra da Tijuca"," Barra da Tijuca",17,2.2,3,56,22,0,0,1,8.1,0,1,0
+"332",332,332,4706878,13,"Hostel Varandas do Maracanã"," Zona Norte",5,NA,NA,62,41,1,1,1,8.2,0,0,0
+"333",333,333,4130065,13,"DS Hostel"," Zona Norte",4.3,NA,NA,174,16,0,0,1,9.3,0,0,0
+"334",334,334,1181781,13,"Beach House Ilha da Gigóia"," Barra da Tijuca",17,2.2,NA,109,20,0,0,1,7.6,0,1,0
+"335",335,335,6798796,13,"ap cido"," Leme",6,0.25,NA,0,89,0,0,0,NA,0,0,1
+"336",336,336,3537505,13,"LineRio Copacabana Residence #189"," Copacabana",7,0.95,NA,3,55,0,0,0,5.1,0,0,1
+"337",337,337,3046280,13,"Pousada Barra Green Village"," Rio de JaneiroMostrar no mapa",40,NA,3,34,33,0,0,1,8.1,1,0,0
+"338",338,338,5495366,13,"Casa de Noca Paquetá"," Rio de JaneiroMostrar no mapa",17,NA,NA,15,44,1,1,1,8.2,1,0,0
+"339",339,339,1866470,13,"Hostel Da Bruna - Botafogo"," Botafogo",6,1.4,NA,346,18,0,0,1,7.7,0,0,1
+"340",340,340,4951169,13,"Flat da Danda"," Copacabana",7,0,3,5,39,0,0,1,8.6,0,0,1
+"341",341,341,3647520,13,"Flat Botafogo"," Botafogo",5,0.45,3,18,25,0,0,0,9.6,0,0,1
+"342",342,342,330691,13,"Estalagem Motel (Adult Only)"," Vidigal",11,0.35,NA,20,21,0,0,1,4.4,0,0,1
+"343",343,343,556423,13,"Casa Cool Beans B&B"," Santa Teresa",2.6,2,4,78,47,1,1,0,9.5,1,0,0
+"344",344,344,392186,14,"Hotel Malaga (Adult Only)"," Zona Norte",3.9,NA,NA,73,24,1,1,1,7.4,0,0,0
+"345",345,345,1949030,14,"Mauá Rio Hostel"," Centro do Rio de Janeiro",0.45,NA,NA,217,24,0,0,1,7.4,1,0,0
+"346",346,346,2294306,14,"Hostel Cidade Nova"," Rio de JaneiroMostrar no mapa",2.6,NA,NA,73,14,1,1,1,8,1,0,0
+"347",347,347,2094020,14,"Reisnger Hostel"," Urca",5,0.45,NA,25,25,0,0,1,7.1,0,0,1
+"348",348,348,6824742,14,"Lapa - conjugado lindo e aconchegante"," Centro do Rio de Janeiro",1.4,2.2,NA,0,27,0,0,0,NA,1,0,0
+"349",349,349,6202403,14,"Family Hostel"," Recreio dos Bandeirantes",33,0.6,NA,0,25,0,0,1,NA,0,1,0
+"350",350,350,6235605,14,"Casa Incrível em Santa Teresa, RJ"," Santa Teresa",2,2.5,NA,0,68,0,0,1,NA,1,0,0
+"351",351,351,720492,14,"Maraca Hostel"," Zona Norte",6,NA,NA,191,20,0,0,1,7.7,0,0,0
+"352",352,352,5414286,14,"Hostel Queiroz"," Rio de JaneiroMostrar no mapa",15,NA,3,16,22,0,0,1,7.3,1,0,0
+"353",353,353,6837969,14,"Aconchego Carioca - Figueiredo de Magalhães 304"," Copacabana",7,0.7,NA,0,42,0,0,1,NA,0,0,1
+"354",354,354,4302288,14,"Bem no Centro 1 Smart TV"," Centro do Rio de Janeiro",1.4,2.8,3,16,24,0,0,0,9.2,1,0,0
+"355",355,355,6882244,14,"Bela Vista do Morro"," Rio de JaneiroMostrar no mapa",40,NA,NA,0,5,0,0,0,NA,1,0,0
+"356",356,356,351788,14,"Hotel Paraguai (Adult Only)"," Centro do Rio de Janeiro",1.6,2.8,NA,67,31,1,1,1,7.8,1,0,0
+"357",357,357,5395040,14,"Casa de Campo da Jeanne - Alugue um ou dois quartos"," Rio de JaneiroMostrar no mapa",38,NA,NA,3,68,0,0,1,8.7,1,0,0
+"358",358,358,5882700,14,"OYO Hotel Bariloche"," Zona Norte",4,NA,2,13,21,0,0,0,5.4,0,0,0
+"359",359,359,2479081,14,"Hostel Bless"," Recreio dos Bandeirantes",35,0,NA,24,23,0,0,1,7.9,0,1,0
+"360",360,360,2707617,14,"Pousada terraco Rio Centro"," Rio de JaneiroMostrar no mapa",26,NA,3,20,22,1,1,1,8.7,1,0,0
+"361",361,361,2240271,14,"Motel Skorpios ( Adults only)"," Rio de JaneiroMostrar no mapa",18,1.9,NA,0,48,0,0,1,NA,1,0,0
+"362",362,362,330699,14,"Lips Motel (Adult Only)"," Centro do Rio de Janeiro",1.1,2,NA,12,31,1,1,0,6.8,1,0,0
+"363",363,363,2694510,14,"Quarto Suite na Gavea"," Gávea",9,1.7,NA,11,36,0,0,1,9.5,0,0,1
+"364",364,364,1706418,14,"Hostel The Gypsies"," Ilha do Governador",10,0,NA,52,26,0,0,1,7.9,0,0,0
+"365",365,365,6905821,14,"Apart. on Charitas Beach, RJ"," Rio de JaneiroMostrar no mapa",9,NA,NA,0,39,0,0,0,NA,1,0,0
+"366",366,366,6899511,14,"Flat Barra First"," Barra da Tijuca",24,NA,NA,0,42,0,0,1,NA,0,1,0
+"367",367,367,6904290,14,"Cozy apartment bedroom and living in Ipanema"," Rio de JaneiroMostrar no mapa",9,0.65,NA,0,76,0,0,0,NA,1,0,0
+"368",368,368,6895088,14,"Apartamento Barra Olímpica"," Barra da Tijuca",23,NA,NA,0,65,0,0,0,NA,0,1,0
+"369",369,369,6899831,15,"BarraFamily by Moriah Apartments"," Barra da Tijuca",18,NA,NA,0,NA,0,0,0,NA,0,1,0
+"370",370,370,6880305,15,"Suíte Copa Luxo"," Copacabana",8,0.7,NA,0,38,0,0,0,NA,0,0,1
+"371",371,371,1265806,15,"Super Quarto Copacabana/Ipanema"," Copacabana",9,0,3,0,57,0,0,0,NA,0,0,1
+"372",372,372,6856647,15,"Shark casa pero"," Rio de JaneiroMostrar no mapa",122,0,NA,0,57,0,0,0,NA,1,0,0
+"373",373,373,6847819,15,"Green garden pousada"," Rio de JaneiroMostrar no mapa",66,NA,3,0,40,0,0,0,NA,1,0,0
+"374",374,374,6830781,15,"Lar Olivia"," Rio de JaneiroMostrar no mapa",23,NA,NA,0,390,0,0,0,NA,1,0,0
+"375",375,375,6807942,15,"Flat em Copacabana"," Copacabana",6,0.7,NA,0,162,0,0,0,NA,0,0,1
+"376",376,376,6854889,15,"Céu Verde Paraty"," Rio de JaneiroMostrar no mapa",161,0.85,NA,0,54,0,0,0,NA,1,0,0
+"377",377,377,4443231,15,"Copacabana , lindo, todo Reformado!"," Copacabana",8,0.45,3,0,51,0,0,1,NA,0,0,1
+"378",378,378,892641,15,"Leme Frontal Mar"," Leme",7,0,4,0,188,0,0,0,NA,0,0,1
+"379",379,379,6618158,15,"Solar das Noivas - Fotos, Casamento e Núpcias!"," Cosme Velho",5,2.7,4,0,451,0,0,0,NA,0,0,1
+"380",380,380,4632684,15,"(Brand-New) Welcome Rio - Ipanema Beach - Posto 9"," Ipanema",9,0.7,NA,6,185,0,0,1,9.5,0,0,1
+"381",381,381,2940969,15,"Apartamento à 100m Praia Botafogo"," Flamengo",4.3,0.75,NA,0,61,0,0,0,NA,0,0,1
+"382",382,382,6403796,15,"Parque Carioca"," Jacarepaguá",24,NA,NA,0,38,0,0,1,NA,0,1,0
+"383",383,383,2389255,15,"Casa Guanabara (Hostel)"," Ilha do Governador",10,NA,NA,0,24,0,0,1,NA,0,0,0
+"384",384,384,1987563,15,"Majestic"," Jacarepaguá",22,NA,NA,4,63,0,0,1,8.5,0,1,0
+"385",385,385,1836356,15,"Quarto no Jardim Botânico"," Jardim Botânico",8,2.8,NA,0,39,0,0,1,NA,0,0,1
+"386",386,386,6129314,15,"QUARTOS EM CASA FAMILIAR"," Zona Norte",7,NA,NA,0,50,0,0,1,NA,0,0,0
+"387",387,387,1393723,15,"2 Bedroom Apartment Copacabana best location"," Copacabana",8,0.4,3,29,481,0,0,0,8.1,0,0,1
+"388",388,388,4686345,15,"POUSADA CANTINHO DA BARRA DA TIJUCA"," Barra da Tijuca",17,2.4,NA,0,80,0,0,1,NA,0,1,0
+"389",389,389,2485394,15,"Albergue cultural"," Jacarepaguá",25,NA,NA,16,51,0,0,1,7.6,0,1,0
+"390",390,390,6906520,15,"Angra Inn, lazer e conforto"," Rio de JaneiroMostrar no mapa",119,NA,NA,0,49,0,0,1,NA,1,0,0
+"391",391,391,1894000,15,"Aquarela do Leme"," Leme",6,0,NA,528,23,1,1,0,9.4,0,0,1
+"392",392,392,349664,15,"Che Lagarto Hostel Copacabana"," Copacabana",7,0.9,NA,2235,17,0,0,0,7.7,0,0,1
+"393",393,393,1906451,15,"Maracanã Hostel Vila Isabel"," Zona Norte",5,NA,NA,202,9,0,0,0,7.5,0,0,0
+"394",394,394,1683041,16,"Casa del Mar Hostel"," Copacabana",7,0.8,NA,740,14,0,0,0,8.1,0,0,1
+"395",395,395,5116821,16,"Brazilodge All Suites Leblon"," Leblon",10,0.5,NA,447,17,0,0,0,8.7,0,0,1
+"396",396,396,463871,16,"Discovery Hostel"," Glória",2.1,1.1,NA,422,14,1,1,0,8.8,1,0,0
+"397",397,397,313764,16,"Bamboo Rio Hostel"," Copacabana",7,0.9,NA,621,15,0,0,0,8,0,0,1
+"398",398,398,2018267,16,"Pontal do Duque"," Recreio dos Bandeirantes",33,0.4,NA,267,20,0,0,0,8.1,0,1,0
+"399",399,399,5787231,16,"Por el Mundo Hostel"," Centro do Rio de Janeiro",1.7,1.5,NA,76,14,0,0,0,9.3,1,0,0
+"400",400,400,6886848,16,"IPA GALLERY HOSTEL"," Copacabana",9,0.65,NA,0,16,0,0,0,NA,0,0,1
+"401",401,401,1765766,16,"Hostel by Hotel Galicia"," Centro do Rio de Janeiro",1.4,2.6,NA,421,9,0,0,0,6.8,1,0,0
+"402",402,402,1005677,16,"Hostel República Rio de Janeiro"," Catete",2.8,0.75,NA,314,13,1,1,0,7.8,0,0,1
+"403",403,403,331254,16,"Vidigal Hostel BAR"," Zona Sul",12,0,NA,50,10,0,0,0,7.5,0,0,1
+"404",404,404,2063774,16,"Casa do Bill Recreio"," Recreio dos Bandeirantes",33,0.9,NA,90,16,1,1,0,8.7,0,1,0
+"405",405,405,887813,16,"Tupiniquim Hostel Rio de Janeiro"," Botafogo",6,1.2,NA,213,12,0,0,0,7.9,0,0,1
+"406",406,406,6018293,16,"Rio Nomad Guest House"," Botafogo",5,0.85,NA,11,14,0,0,0,7.7,0,0,1
+"407",407,407,6810076,16,"Hostel Flazao"," Santa Teresa",2.1,1.3,NA,0,28,0,0,0,NA,1,0,0
+"408",408,408,472376,16,"Mar da Babilônia Hostel"," Leme",6,0.65,NA,15,14,0,0,0,7.1,0,0,1
+"409",409,409,2176523,16,"Apartamento Santa Teresa"," Santa Teresa",2.4,1.4,NA,4,35,0,0,0,7.4,1,0,0
+"410",410,410,2138312,16,"Quarto compartilhado em Santa Teresa"," Santa Teresa",2.4,1.4,NA,9,22,0,0,0,7.7,1,0,0
+"411",411,411,286707,0,"Hotel Atlântico Business Centro"," Centro do Rio de Janeiro",1.1,2,4,11525,18,1,1,0,8.1,1,0,0
+"412",412,412,369429,3,"Atlantico Sul Hotel"," Recreio dos Bandeirantes",33,0,4,1633,66,1,1,0,8.7,0,1,0
+"413",413,413,173163,3,"Augusto's Copacabana Hotel"," Copacabana",8,0.55,4,691,46,0,0,0,8.1,0,0,1
+"414",414,414,18533,5,"Hotel Canada"," Copacabana",7,0.45,3,622,38,1,1,1,8.4,0,0,1
+"415",415,415,410505,5,"Saionara Hotel"," Zona Norte",3.8,NA,3,1428,26,1,1,1,8.5,0,0,0
+"416",416,416,246211,5,"Ipanema Inn Hotel"," Ipanema",9,0.75,3,750,75,1,1,1,8.9,0,0,1
+"417",417,417,1043847,9,"Apartamento Ipanema"," Ipanema",9,1.3,3,14,80,0,0,0,9.2,0,0,1
